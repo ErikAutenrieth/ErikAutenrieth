@@ -1,6 +1,8 @@
 # <img src="wave.gif" width="50px"> Hello! 
 
 - 👋 Hi, I’m Erik 
+- Computer Science student at  H-BRS Sankt Augustin
+
 
 
 ### Stats
