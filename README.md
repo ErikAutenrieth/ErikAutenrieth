@@ -1,6 +1,6 @@
-# Hello! <img src="wave.gif" width="50px">
+# <img src="wave.gif" width="50px"> Hello! 
 
-
+- 👋 Hi, I’m Erik 
 
 
 ### Stats
