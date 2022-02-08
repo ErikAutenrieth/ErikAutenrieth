@@ -1,4 +1,6 @@
-# <img src="wave.gif" width="50px"> Hello! 
+# <img src="wave.gif" width="50px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
+
+
 
 - 👋 Hi, I’m Erik 
 - 🌱 Computer Science student at  H-BRS Sankt Augustin
