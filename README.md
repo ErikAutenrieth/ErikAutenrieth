@@ -17,6 +17,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercheef&theme=dark)](https://github.com/mastercheef/github-readme-stats)
 
 
+
+<h4 align="center"> Languages</h4>
+ 
+ 
+ <p align="center">
+  <img height="50px" src="https://www.crosssoft.de/wp-content/uploads/2019/03/java-icon.png" title="Java">
+  <img height="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python">
+  <img height="50px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" title="Javascript">
+  <img height="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" title="C">
+  <img height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML">
+  <img height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" title="CSS">
+ </p>
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercheef&layout=compact)](https://github.com/mastercheef/github-readme-stats)
 -->
