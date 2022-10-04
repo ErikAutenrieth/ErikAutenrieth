@@ -18,10 +18,10 @@
 
 
 
-<h4 align="center"> Languages</h4>
+### Languages
  
  
- <p align="center">
+ <p align="left">
   <img height="50px" src="https://www.crosssoft.de/wp-content/uploads/2019/03/java-icon.png" title="Java">
   <img height="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python">
   <img height="50px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" title="Javascript">
