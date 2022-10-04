@@ -18,7 +18,7 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercheef&layout=compact)](https://github.com/mastercheef/github-readme-stats)
 
 
 <!--
