@@ -17,9 +17,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercheef&theme=dark)](https://github.com/mastercheef/github-readme-stats)
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercheef&layout=compact)](https://github.com/mastercheef/github-readme-stats)
-
+-->
 
 <!--
 **Mastercheef/Mastercheef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
