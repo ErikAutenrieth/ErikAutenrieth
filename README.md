@@ -4,10 +4,10 @@
 
 - 👋 Hi, I’m Erik 
 - 🌱 Computer Science student at  H-BRS Sankt Augustin
-- 📫 How to reach me:
-      Email: e-aut@web.de
+- 📫 How to reach me 
      <a href="https://www.linkedin.com/in/erik-autenrieth-b603a114a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+or via email: e-aut@web.de
 
 ### Statistics 
 <!--
