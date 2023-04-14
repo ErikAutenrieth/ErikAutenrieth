@@ -30,7 +30,7 @@
   </div>
   <div style="flex: 1; padding: 10px;">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=10">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=100">
     </a>
   </div>
 </div>
