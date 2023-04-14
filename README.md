@@ -26,7 +26,19 @@
    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=10"></a>
   </p>
   
-  
+  <div style="display: flex; justify-content: center;">
+  <div style="flex: 1; padding: 10px;">
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=ErikAutenrieth&count_private=true&show_icons=true&theme=prussian">
+    </a>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=10">
+    </a>
+  </div>
+</div>
+
  
 
 
