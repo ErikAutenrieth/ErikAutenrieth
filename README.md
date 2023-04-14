@@ -20,6 +20,15 @@
 -->
 
 
+   <p align="center">
+   <!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ErikAutenrieth&count_private=true&show_icons=true&theme=prussian"> <br></a>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=10"></a>
+  </p>
+  
+  
+
+
 
 
 ### Languages
