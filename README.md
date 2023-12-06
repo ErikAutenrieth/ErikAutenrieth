@@ -6,9 +6,9 @@
 ### Education 📚
 - **Studying Computer Science** at *Hochschule Bonn-Rhein-Sieg (H-BRS), Sankt Augustin*
 
-### Current Interests and Learning 🌟
-- Enhancing skills in **Advanced Programming Languages and Frameworks**
-- Exploring **Cutting-Edge Technologies** in MLOps
+- **Deepening Knowledge in Machine Learning**: Focusing on algorithms, neural networks, and data-driven solutions.
+- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient machine learning operations, such as Ray, MLflow
+- **Frontend Development with React**: Enhancing skills in building dynamic, user-friendly interfaces using React.
 
 ## Looking For 🕵️‍♂️
 - **Practical Experiences** in Software Development and Data Analysis
@@ -17,21 +17,6 @@
 ### Connect With Me 🌐
 - 📧 Email: [e-aut@web.de](mailto:e-aut@web.de)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Erik_Autenrieth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erik-autenrieth-b603a114a/)
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m Erik 
-- 🌱 Computer Science student at  H-BRS Sankt Augustin
-- 📫 How to reach me e-aut@web.de
- 
-
-<a href="https://www.linkedin.com/in/erik-autenrieth-b603a114a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
