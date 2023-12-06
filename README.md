@@ -64,8 +64,8 @@ ___
   <img height="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python">
   <img height="50px" src="https://www.crosssoft.de/wp-content/uploads/2019/03/java-icon.png" title="Java">
   <img height="50px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" title="Javascript">
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React">
   <img height="50px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" title="TypeScript">
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React">
   <img height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML">
   <img height="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" title="CSS">
 
