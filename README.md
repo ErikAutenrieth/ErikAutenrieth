@@ -44,14 +44,11 @@
   </div>
  </div>
   -->
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 0 0 50%; padding: 10px;"> 
+<div style="flex: 1; padding: 10px;">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=1000">
     </a>
   </div>
-</div>
-
 
  
 
