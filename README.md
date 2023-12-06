@@ -17,6 +17,7 @@
 
 ### Connect With Me 🌐
 - 📧 Email: [e-aut@web.de](mailto:e-aut@web.de)
+  
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Erik_Autenrieth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erik-autenrieth-b603a114a/)
 
 
