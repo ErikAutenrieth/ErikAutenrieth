@@ -44,7 +44,7 @@
   </div>
  </div>
   -->
-<div style="flex: 1; padding: 10px; width: 100%;">
+<div style="flex: 1; padding: 10px; width: 50%;">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=1000" style="width: 100%;">
     </a>
