@@ -1,5 +1,29 @@
 # <img src="wave.gif" width="50px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
 
+# 👨‍💻 About Me: Erik Autenrieth
+---
+
+## Education 📚
+- **Studying Computer Science** at *Hochschule Bonn-Rhein-Sieg (H-BRS), Sankt Augustin*
+
+## Current Interests and Learning 🌟
+- Enhancing skills in **Advanced Programming Languages and Frameworks**
+- Exploring **Cutting-Edge Technologies** in Computer Science
+
+## Looking For 🕵️‍♂️
+- **Practical Experiences** in Software Development and Data Analysis
+- Collaborative Projects to **Challenge and Expand My Skillset**
+
+## Connect With Me 🌐
+- 📧 Email: [e-aut@web.de](mailto:e-aut@web.de)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Erik_Autenrieth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erik-autenrieth-b603a114a/)
+
+
+
+
+
+
+
 
 
 - 👋 Hi, I’m Erik 
@@ -8,6 +32,8 @@
  
 
 <a href="https://www.linkedin.com/in/erik-autenrieth-b603a114a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
 
 
@@ -52,7 +78,7 @@
  </p>
 
 
-
+<!--
 ![Snake animation](https://github.com/AdrianoEscarabote/AdrianoEscarabote/blob/output/github-contribution-grid-snake.svg)
 
 
