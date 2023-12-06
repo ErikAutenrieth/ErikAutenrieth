@@ -1,7 +1,7 @@
 # <img src="wave.gif" width="50px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me: Erik Autenrieth
----
+
 
 ### Education 📚
 - **Studying Computer Science** at *Hochschule Bonn-Rhein-Sieg (H-BRS), Sankt Augustin*
@@ -40,6 +40,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ErikAutenrieth&count_private=true&show_icons=true&theme=prussian">
     </a>
   </div>
+
+  -->
   <div style="flex: 1; padding: 10px;">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=1000">
@@ -48,7 +50,7 @@
 </div>
 
  
--->
+
 
 
 ### Languages
