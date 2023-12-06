@@ -44,13 +44,13 @@
   </div>
  </div>
   -->
-  <div style="display: flex; justify-content: center;">
-<div style="flex: 1; padding: 10px;">
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 0 0 50%; padding: 10px;"> <!-- Begrenzung der Breite auf 50% -->
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=1000"">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAutenrieth&layout=compact&theme=prussian&langs_count=1000" style="width: 100%;">
     </a>
-</div>
   </div>
+</div>
 
 
  
