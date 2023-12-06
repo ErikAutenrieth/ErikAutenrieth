@@ -8,7 +8,7 @@
 
 ### Current Interests and Learning 🌟
 - **Deepening Knowledge in Machine Learning**: Concentrating on Large Language Models (LLMs), and tree-based algorithms for complex, data-driven problem-solving.
-- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient machine learning operations, such as Ray, MLflow, Amazon Sagemaker
+- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient MLOPs, such as Ray, MLflow, Amazon Sagemaker
 - **Frontend Development with React**: Enhancing skills in building dynamic, user-friendly interfaces using React.
 
 ## Looking For 🕵️‍♂️
