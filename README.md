@@ -6,8 +6,9 @@
 ### Education 📚
 - **Studying Computer Science** at *Hochschule Bonn-Rhein-Sieg (H-BRS), Sankt Augustin*
 
-- **Deepening Knowledge in Machine Learning**: Focusing on algorithms, neural networks, and data-driven solutions.
-- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient machine learning operations, such as Ray, MLflow
+### Current Interests and Learning 🌟
+- **Deepening Knowledge in Machine Learning**: Concentrating on Large Language Models (LLMs), and tree-based algorithms for complex, data-driven problem-solving.
+- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient machine learning operations, such as Ray, MLflow, Amazon Sagemaker
 - **Frontend Development with React**: Enhancing skills in building dynamic, user-friendly interfaces using React.
 
 ## Looking For 🕵️‍♂️
@@ -29,7 +30,7 @@
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercheef&theme=dark)](https://github.com/mastercheef/github-readme-stats)
    <p align="center">
-   <!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+   <!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance 
 
 
   
@@ -47,7 +48,7 @@
 </div>
 
  
-
+-->
 
 
 ### Languages
