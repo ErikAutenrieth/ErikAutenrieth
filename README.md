@@ -62,7 +62,7 @@ ___
  <p align="left">
   
   <img height="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python">
-  <img height="50px" src="https://www.crosssoft.de/wp-content/uploads/2019/03/java-icon.png" title="Java">
+  <img height="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" title="Java">
   <img height="50px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" title="Javascript">
   <img height="50px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" title="TypeScript">
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React">
