@@ -73,7 +73,40 @@ ___
  </p>
 
 
+
+<br>  
+ 
+  <h3 align="center"> 📝 Contacts & Accounts 📝</h4>
+
+  
+<p align="center">
+  <a href="#"> <img height="25px" src="https://shields.io/badge/E--Mail-e.aut21%40gmail.com-blue?logo=gmail&style=for-the-badge" title="E-Mail"></a>
+  <a href="https://www.hackerrank.com/profile/e_aut"> <img height="25px" src="https://shields.io/badge/HackerRank-%40e__aut-blue?logo=hackerrank&style=for-the-badge" title="HackerRank" target="_blank"></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
+
+<a href="https://leetcode.com/xMinhx/"> <img height="25px" src="https://shields.io/badge/LeetCode-xMinhx-blue?logo=leetcode&style=for-the-badge" title="LeetCode" target="_blank"></a>
+
+
+
+
 ![Snake animation](https://github.com/AdrianoEscarabote/AdrianoEscarabote/blob/output/github-contribution-grid-snake.svg)
 
 
