@@ -8,16 +8,11 @@
 
 ### Current Interests and Learning 🌟
 - **Deepening Knowledge in Machine Learning**: Concentrating on Large Language Models (LLMs), and tree-based algorithms for complex, data-driven problem-solving.
-- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient MLOPs, such as Ray, MLflow, Amazon Sagemaker
+- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient MLOps, such as Ray, MLflow, Amazon Sagemaker
 - **Frontend Development with React**: Enhancing skills in building dynamic, user-friendly interfaces using React.
-
-## Looking For 🕵️‍♂️
-- **Practical Experiences** in Software Development and Data Analysis
-- Collaborative Projects to **Challenge and Expand My Skillset**
 
 ### Connect With Me 🌐
 - 📧 Email: [e-aut@web.de](mailto:e-aut@web.de)
-
   
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Erik_Autenrieth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erik-autenrieth-b603a114a/)
 
