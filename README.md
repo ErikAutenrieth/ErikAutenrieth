@@ -1,11 +1,11 @@
-# <img src="wave.gif" width="50px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
+## <img src="wave.gif" width="50px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me: Erik Autenrieth
+### 👨‍💻 About Me: Erik Autenrieth
 
-### Education 📚
+#### Education 📚
 - **Studying Computer Science** at *Hochschule Bonn-Rhein-Sieg (H-BRS), Sankt Augustin*
 
-### Connect With Me 🌐
+#### Connect With Me 🌐
 - 📧 Email: [e-aut@web.de](mailto:e-aut@web.de)
   
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Erik_Autenrieth-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erik-autenrieth-b603a114a/)
@@ -14,7 +14,7 @@
 
 
 
-### Statistics 
+#### Statistics 
 ___
 <!--
 <a href="https://github.com/Datamics-Webinar">
@@ -44,7 +44,7 @@ ___
 
 
 
-### Languages
+#### Languages
 ___
  
  
