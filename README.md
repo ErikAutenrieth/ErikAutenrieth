@@ -7,8 +7,8 @@
 - **Studying Computer Science** at *Hochschule Bonn-Rhein-Sieg (H-BRS), Sankt Augustin*
 
 ### Current Interests and Learning 🌟
-- **Deepening Knowledge in Machine Learning**: Concentrating on Large Language Models (LLMs), and tree-based algorithms for complex, data-driven problem-solving.
-- **Exploring MLOps Tools**: Gaining proficiency in tools for efficient MLOps, such as Ray, MLflow, Amazon Sagemaker
+- **Machine Learning**: Concentrating on Large Language Models (LLMs), and tree-based algorithms for complex, data-driven problem-solving.
+- **MLOps Tools**: Gaining proficiency in tools for efficient MLOps, such as Ray, MLflow, Amazon Sagemaker
 - **Frontend Development with React**: Enhancing skills in building dynamic, user-friendly interfaces using React.
 
 ### Connect With Me 🌐
